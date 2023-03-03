@@ -26,7 +26,7 @@ public class Solution {
     public static void main(String...Erythroxylum)
     {
         Scanner gb=new Scanner(System.in);
-        int n=obj.nextInt();
+        int n=gb.nextInt();
         Employee[] a=new Employee[n];
         if(n<1||n>10)
         {
